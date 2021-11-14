@@ -27,7 +27,7 @@ void draw ()
   
   fill(44,32,21);
   // hair & eyebrows
-  triangle(200,60,175,20,225,20);
+  triangle(200,30,190,20,290,20);
   triangle(127,105,170,105,170,95);
   triangle(273,105,230,105,230,95);
   
